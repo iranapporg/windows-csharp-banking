@@ -1,0 +1,16 @@
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\bin\x86\Debug\Bank_Reporter.exe
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\bin\x86\Debug\Bank_Reporter.pdb
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\bin\x86\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\bin\x86\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\bin\x86\Debug\office.dll
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\x86\Debug\Bank_Reporter.frmlistzamen.resources
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\x86\Debug\Bank_Reporter.frmmenu.resources
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\x86\Debug\Bank_Reporter.frmzamen.resources
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\x86\Debug\Bank_Reporter.frmbranch.resources
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\x86\Debug\Bank_Reporter.frmmdi.resources
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\x86\Debug\Bank_Reporter.frmperson.resources
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\x86\Debug\Bank_Reporter.Properties.Resources.resources
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\x86\Debug\Bank_Reporter.csproj.GenerateResource.Cache
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\x86\Debug\Bank_Reporter.exe
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\x86\Debug\Bank_Reporter.pdb

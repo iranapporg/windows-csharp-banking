@@ -1,0 +1,60 @@
+I:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\bin\Debug\Bank_Reporter.exe
+I:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\bin\Debug\Bank_Reporter.pdb
+I:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\ResolveAssemblyReference.cache
+I:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmbranch.resources
+I:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmmdi.resources
+I:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmperson.resources
+I:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.Properties.Resources.resources
+I:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.csproj.GenerateResource.Cache
+I:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.exe
+I:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.pdb
+I:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmzamen.resources
+I:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmmenu.resources
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.exe
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.pdb
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\bin\Debug\Bank_Reporter.exe
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\bin\Debug\Bank_Reporter.pdb
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\ResolveAssemblyReference.cache
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmmenu.resources
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmzamen.resources
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmbranch.resources
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmmdi.resources
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmperson.resources
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.Properties.Resources.resources
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.csproj.GenerateResource.Cache
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.exe
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.pdb
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\bin\Debug\Bank_Reporter.exe
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\bin\Debug\Bank_Reporter.pdb
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmmenu.resources
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmzamen.resources
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmbranch.resources
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmmdi.resources
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmperson.resources
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.Properties.Resources.resources
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.csproj.GenerateResource.Cache
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmlistzamen.resources
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\bin\Debug\Aspose.Words.dll
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmpatch.resources
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\bin\Debug\Key_Software.dll
+C:\Users\Dariush\Desktop\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmpreview.resources
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.exe
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.pdb
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\ResolveAssemblyReference.cache
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmlistzamen.resources
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmmenu.resources
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmpatch.resources
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmpreview.resources
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmzamen.resources
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmbranch.resources
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmmdi.resources
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.frmperson.resources
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.Properties.Resources.resources
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.csproj.GenerateResource.Cache
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank Sepehr\Bank_Reporter\Bank_Reporter\bin\Debug\Bank_Reporter.exe
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank Sepehr\Bank_Reporter\Bank_Reporter\bin\Debug\Bank_Reporter.pdb
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank Sepehr\Bank_Reporter\Bank_Reporter\bin\Debug\Aspose.Words.dll
+H:\My Current Project\Programming\C#\Bank Sepehr\Bank Sepehr\Bank_Reporter\Bank_Reporter\bin\Debug\Key_Software.dll
+Y:\Documents\My Tools\mY Project\Programming\C#\Bank Sepehr\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.exe
+Y:\Documents\My Tools\mY Project\Programming\C#\Bank Sepehr\Bank Sepehr\Bank_Reporter\Bank_Reporter\obj\Debug\Bank_Reporter.pdb
